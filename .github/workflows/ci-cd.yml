@@ -27,3 +27,4 @@ jobs:
           context: .
           push: true
           tags: malika03/f_Brain:latest
+          
