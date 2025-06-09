@@ -152,10 +152,4 @@ L’interface est construite avec **React** et stylée avec **Tailwind CSS** pou
 - L’historique des conversions est stocké dans PostgreSQL. Configure l’admin Django pour y accéder (crée un superuser avec `python manage.py createsuperuser`).
 - Ce projet suit une méthodologie DevOps avec conteneurisation (Docker) et séparation claire entre front et back.
 
----
-
-Voilà mon pote, t’as tout ce qu’il faut pour faire tourner ce projet ! Si t’as un souci, fais-moi signe ! 🚀
-
---- 
-
-This README is structured similarly to your original document, with clear steps, emoji usage for visual clarity, and a friendly tone. It includes all necessary details for anyone to replicate the project while highlighting the user-friendly interface. Let me know if you'd like to adjust anything!
+--
